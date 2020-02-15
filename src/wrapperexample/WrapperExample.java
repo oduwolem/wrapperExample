@@ -31,6 +31,8 @@ public class WrapperExample {
     String s2=Double.toString(sum);
     System.out.println(s2+5);
     
+    
+    System.out.println( 2 + 5 + "" + 5);
     }
     
 }
