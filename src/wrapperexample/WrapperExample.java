@@ -33,6 +33,7 @@ public class WrapperExample {
     
     
     System.out.println( 2 + 5 + "" + 5);
+        String name="fred";
     }
     
 }
